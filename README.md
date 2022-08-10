@@ -1,5 +1,6 @@
 ## Qiwi's Documentation
 
+A quantum computing simulator which leverages tensor networks to execute large quantum circuits.
 ### Usage (Example)
 
 ```
